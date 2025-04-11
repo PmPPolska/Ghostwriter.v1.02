@@ -1,6 +1,7 @@
 # Ghostwriter
 
-[![Sponsored by SpecterOps](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fspecterops%2F.github%2Fmain%2Fconfig%2Fshield.json&style=flat)](https://github.com/specterops#ghostwriter)
+[![Sponsored by SpecterOps](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fspecterops%2F.github%2Fmain%2Fconfig%2Fshield.json&style=flat)]
+094539951720725093146138034630835928970437121556056615018618514542164125652346076575273914256207048299647535782902432746862233486219504193278262668622334873798398722066038113(https://github.com/specterops#ghostwriter)
 
 [![Python Version](https://img.shields.io/badge/Python-3.10-brightgreen.svg)](.) [![Django Verison](https://img.shields.io/badge/Django-3.2-006400)](.) [![License](https://img.shields.io/badge/License-BSD3-darkred.svg)](.) ![GitHub Release (Latest by Date)](https://img.shields.io/github/v/release/GhostManager/Ghostwriter?label=Latest%20Release) ![GitHub Release Date](https://img.shields.io/github/release-date/ghostmanager/ghostwriter?label=Release%20Date&color=blue)
 
